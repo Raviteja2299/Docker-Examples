@@ -22,11 +22,12 @@ This project automates the process using platform-specific scripts that:
 ---
 
 ## Project Structure
+```
 setup-Docker/
 ├── WIndowsSetup.ps1
 ├── MACSetup.sh
 └── UbuntuSetup.sh
-
+```
 
 ---
 
